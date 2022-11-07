@@ -11,3 +11,4 @@ This is my compilation of **interesting and useful** software 🍑
 * [YouBit](https://habr.com/ru/company/first/blog/676282/?ysclid=l9zhiw2wnj655037600) - Storage your data in video format on YouTube
 * [DivKit](https://github.com/divkit/divkit) - Open source Server-Driven UI (SDUI) framework
 * [VoT Yandex Browser](https://github.com/ilyhalight/voice-over-translation) - Yandex Browser VoT plugin for other browsers
+* [CryptPad](https://cryptpad.org/) - CryptPad is a collaborative office suite that is end-to-end encrypted and open-source (secure and confidential alternative to Google Docs)

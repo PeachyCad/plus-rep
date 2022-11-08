@@ -12,8 +12,11 @@ This is my compilation of **interesting and useful** software 🍑
 * [DivKit](https://github.com/divkit/divkit) - Open source Server-Driven UI (SDUI) framework
 * [VoT Yandex Browser](https://github.com/ilyhalight/voice-over-translation) - Yandex Browser VoT plugin for other browsers
 * [CryptPad](https://cryptpad.org/) - CryptPad is a collaborative office suite that is end-to-end encrypted and open-source (secure and confidential alternative to Google Docs)
+* [YandexStation CLI](https://github.com/beldmian/yastation) - Small CLI to control yandex speaker devices (yandex station)
+* [YandexStation Home Assistant](https://github.com/AlexxIT/YandexStation) - Controlling YandexStation from Home Assistant
 
 ##  Mobile List
 
 * [Flutter Secure Storage](https://pub.flutter-io.cn/packages/flutter_secure_storage) - Flutter Secure Storage provides API to store data in secure storage. Keychain is used in iOS, KeyStore based solution is used in Android
 * [Drift](https://pub.flutter-io.cn/packages/flutter_secure_storage) - Drift is a reactive library to store relational data in Dart and Flutter applications (SQL wrapper)
+* [Flutter Hero Card Flip Effect](https://dartpad.dev/?id=ca51f87da5dca6645f53cd6ed2548fec) - Code for card's flip-animation 

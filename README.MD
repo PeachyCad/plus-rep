@@ -14,6 +14,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [CryptPad](https://cryptpad.org/) - CryptPad is a collaborative office suite that is end-to-end encrypted and open-source (secure and confidential alternative to Google Docs)
 * [YandexStation CLI](https://github.com/beldmian/yastation) - Small CLI to control yandex speaker devices (yandex station)
 * [YandexStation Home Assistant](https://github.com/AlexxIT/YandexStation) - Controlling YandexStation from Home Assistant
+* [DevToys](https://devtoys.app/) - An offline Windows app that helps developers in daily tasks
+* [Reveal.JS](https://revealjs.com/) - HTML presentation framework
 
 ##  Mobile List
 

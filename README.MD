@@ -16,6 +16,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [YandexStation Home Assistant](https://github.com/AlexxIT/YandexStation) - Controlling YandexStation from Home Assistant
 * [DevToys](https://devtoys.app/) - An offline Windows app that helps developers in daily tasks
 * [Reveal.JS](https://revealjs.com/) - HTML presentation framework
+* [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Extension which will help you create more human-friendly types of comments in your code.
 
 ##  Mobile List
 

@@ -18,6 +18,9 @@ This is my compilation of **interesting and useful** software 🍑
 * [Reveal.JS](https://revealjs.com/) - HTML presentation framework
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Extension for VS Code which will help you create more human-friendly types of comments in your code
 * [Tunneling Software](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-based tunneling software and services
+* [Imagen](https://imagen.research.google/) - Google's text-to-image diffusion model
+* [GitBook](https://gitbook.com/) - Service for making technical documentation
+* [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
 
 ##  Mobile List
 

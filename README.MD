@@ -17,7 +17,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [DevToys](https://devtoys.app/) - An offline Windows app that helps developers in daily tasks
 * [Reveal.JS](https://revealjs.com/) - HTML presentation framework
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Extension for VS Code which will help you create more human-friendly types of comments in your code
-* [Tunneling software](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-based tunneling software and services
+* [Tunneling Software](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-based tunneling software and services
 
 ##  Mobile List
 

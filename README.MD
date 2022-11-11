@@ -21,6 +21,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Imagen](https://imagen.research.google/) - Google's text-to-image diffusion model
 * [GitBook](https://gitbook.com/) - Service for making technical documentation
 * [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
+* [TTS-hritools](https://github.com/hritools/text-to-speech?ysclid=labgel9ema59608100) - A speech synthesis library
 
 ##  Mobile List
 

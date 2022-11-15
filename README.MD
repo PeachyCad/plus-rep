@@ -22,6 +22,9 @@ This is my compilation of **interesting and useful** software 🍑
 * [GitBook](https://gitbook.com/) - Service for making technical documentation
 * [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
 * [TTS-hritools](https://github.com/hritools/text-to-speech?ysclid=labgel9ema59608100) - A speech synthesis library
+* [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's 
+* [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots 
 
 ##  Mobile List
 

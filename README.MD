@@ -27,6 +27,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots 
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
+* [JSON Crack](https://jsoncrack.com/) - Visualizer for your JSON data instantly into graphs
 
 ##  Mobile List
 

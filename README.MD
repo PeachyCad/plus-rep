@@ -35,3 +35,4 @@ This is my compilation of **interesting and useful** software 🍑
 * [Drift](https://pub.flutter-io.cn/packages/flutter_secure_storage) - Drift is a reactive library to store relational data in Dart and Flutter applications (SQL wrapper)
 * [Flutter Hero Card Flip Effect](https://dartpad.dev/?id=ca51f87da5dca6645f53cd6ed2548fec) - Code for card's flip-animation
 * [Graphic](https://pub.dev/packages/graphic) - A grammar of data visualization and Flutter charting library
+* [Codemagic](https://codemagic.io) - CI/CD for mobile apps

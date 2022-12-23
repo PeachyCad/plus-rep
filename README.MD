@@ -26,6 +26,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's 
 * [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots 
+* [Microsoft Designer](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
 * [JSON Crack](https://jsoncrack.com/) - Visualizer for your JSON data instantly into graphs

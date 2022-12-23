@@ -35,8 +35,8 @@ This is my compilation of **interesting and useful** software 🍑
 
 * [Flutter Secure Storage](https://pub.flutter-io.cn/packages/flutter_secure_storage) - Flutter Secure Storage provides API to store data in secure storage. Keychain is used in iOS, KeyStore based solution is used in Android
 * [Drift](https://pub.flutter-io.cn/packages/flutter_secure_storage) - Drift is a reactive library to store relational data in Dart and Flutter applications (SQL wrapper)
-* [Flutter Hero Card Flip Effect](https://dartpad.dev/?id=ca51f87da5dca6645f53cd6ed2548fec) - Code for card's flip-animation
 * [Graphic](https://pub.dev/packages/graphic) - A grammar of data visualization and Flutter charting library
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
+* [Very Good CLI](https://cli.vgv.dev/) - A CLI to generate scalable templates of Flutter app, Flame game, Flutter package, Dart package, federated plugin, or Dart CLI with one command

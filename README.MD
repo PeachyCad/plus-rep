@@ -42,5 +42,6 @@ This is my compilation of **interesting and useful** software 🍑
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
 * [Embrace Flutter](https://pub.dev/packages/embrace) - A comprehensive observability and monitoring platform for iOS and Android apps built with Flutter
+* [Flutter Alice](https://pub.dev/packages/flutter_alice) - Flutter HTTP inspector tool which helps debugging http requests
 * [Very Good CLI](https://cli.vgv.dev/) - A CLI to generate scalable templates of Flutter app, Flame game, Flutter package, Dart package, federated plugin, or Dart CLI with one command
 * [Accessibility Tools Flutter](https://pub.dev/packages/accessibility_tools) - Checkers and tools to ensure your app is accessible to all (force you to use Semantics-like things)

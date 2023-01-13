@@ -37,11 +37,12 @@ This is my compilation of **interesting and useful** software 🍑
 ##  Mobile List
 
 * [Flutter Secure Storage](https://pub.flutter-io.cn/packages/flutter_secure_storage) - Flutter Secure Storage provides API to store data in secure storage. Keychain is used in iOS, KeyStore based solution is used in Android
-* [Drift](https://pub.flutter-io.cn/packages/flutter_secure_storage) - Drift is a reactive library to store relational data in Dart and Flutter applications (SQL wrapper)
+* [Drift](https://pub.flutter-io.cn/packages/flutter_secure_storage) - A reactive library to store relational data in Dart and Flutter applications (SQL wrapper)
 * [Graphic](https://pub.dev/packages/graphic) - A grammar of data visualization and Flutter charting library
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
+* [File Picker](https://pub.dev/packages/file_picker) - A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extension filtering support
 * [Embrace Flutter](https://pub.dev/packages/embrace) - A comprehensive observability and monitoring platform for iOS and Android apps built with Flutter
 * [Flutter Alice](https://pub.dev/packages/flutter_alice) - Flutter HTTP inspector tool which helps debugging http requests
 * [Very Good CLI](https://cli.vgv.dev/) - A CLI to generate scalable templates of Flutter app, Flame game, Flutter package, Dart package, federated plugin, or Dart CLI with one command

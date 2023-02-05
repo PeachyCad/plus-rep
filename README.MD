@@ -19,13 +19,14 @@ This is my compilation of **interesting and useful** software 🍑
 * [Draw.io](https://app.diagrams.net/) - A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Extension for VS Code which will help you create more human-friendly types of comments in your code
 * [Tunneling Software](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-based tunneling software and services
-* [Imagen](https://imagen.research.google/) - Google's text-to-image diffusion model
+* [AppFlowy](https://appflowy.io/) - Open-source Notion alternative
 * [GitBook](https://gitbook.com/) - Service for making technical documentation
 * [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
 * [PANA](https://pub.dev/packages/pana) - Package analyzer which produce a report summarizing the health and quality of a Dart package 
 * [TTS-hritools](https://github.com/hritools/text-to-speech?ysclid=labgel9ema59608100) - A speech synthesis library
 * [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's 
 * [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
+* [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots 
 * [Microsoft Designer](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)

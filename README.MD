@@ -24,8 +24,12 @@ This is my compilation of **interesting and useful** software 🍑
 * [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
 * [Very Good CLI](https://cli.vgv.dev/) - A CLI to generate scalable templates of Flutter app, Flame game, Flutter package, Dart package, federated plugin, or Dart CLI with one command
 * [PANA](https://pub.dev/packages/pana) - Package analyzer which produce a report summarizing the health and quality of a Dart package 
+* [Injector](https://pub.dev/packages/injector) - Injector is a simple to use and lightweight dependency injection library for dart
+* [GetIt](https://pub.dev/packages/get_it) - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App
+* [Injectable](https://pub.dev/packages/injectable) - Injectable is a convenient code generator for get_it
 * [TTS-hritools](https://github.com/hritools/text-to-speech?ysclid=labgel9ema59608100) - A speech synthesis library
-* [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's 
+* [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's
+* [This X Does Not Exist](https://thisxdoesnotexist.com/) - List of services with GAN to create realistic-looking fake versions of almost anything
 * [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots 
@@ -45,6 +49,9 @@ This is my compilation of **interesting and useful** software 🍑
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
+* [Responsive Builder](https://pub.dev/packages/responsive_builder) - A set of widgets that can be used to define a readable responsive UI for widgets
+* [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
+* [Slang](https://pub.dev/packages/slang) - Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation
 * [File Picker](https://pub.dev/packages/file_picker) - A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extension filtering support
 * [Embrace Flutter](https://pub.dev/packages/embrace) - A comprehensive observability and monitoring platform for iOS and Android apps built with Flutter
 * [Flutter Alice](https://pub.dev/packages/flutter_alice) - Flutter HTTP inspector tool which helps debugging http requests

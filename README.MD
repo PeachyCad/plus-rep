@@ -30,6 +30,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [TTS-hritools](https://github.com/hritools/text-to-speech?ysclid=labgel9ema59608100) - A speech synthesis library
 * [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's
 * [This X Does Not Exist](https://thisxdoesnotexist.com/) - List of services with GAN to create realistic-looking fake versions of almost anything
+* [MailDrop](https://maildrop.cc/) - Maildrop is a free disposable email address to use anytime
 * [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots 

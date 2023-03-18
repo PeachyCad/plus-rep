@@ -38,6 +38,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
 * [JSON Crack](https://jsoncrack.com/) - Visualizer for your JSON data instantly into graphs
+* [Happy Hues](https://www.happyhues.co) - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects
+* [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 * [Figma](https://www.figma.com/) - Linear prototyping service
 * [Protopie](https://www.protopie.io/) - Dynamic prototyping service
 

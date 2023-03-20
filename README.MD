@@ -39,6 +39,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
 * [JSON Crack](https://jsoncrack.com/) - Visualizer for your JSON data instantly into graphs
 * [Happy Hues](https://www.happyhues.co) - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects
+* [Coolors](https://coolors.co/) - Service for generating or browsing color combinations for your designs 
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 * [Figma](https://www.figma.com/) - Linear prototyping service
 * [Protopie](https://www.protopie.io/) - Dynamic prototyping service

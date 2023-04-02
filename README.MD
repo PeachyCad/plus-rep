@@ -41,6 +41,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Happy Hues](https://www.happyhues.co) - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects
 * [Coolors](https://coolors.co/) - Service for generating or browsing color combinations for your designs 
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+* [Webflow](https://webflow.com/?utm_source=flowmingo&utm_medium=referral&utm_campaign=flowmingo-show) - Online visual editor platform, which allows users to design, build, and launch websites
 * [Figma](https://www.figma.com/) - Linear prototyping service
 * [Protopie](https://www.protopie.io/) - Dynamic prototyping service
 
@@ -50,6 +51,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Drift](https://pub.flutter-io.cn/packages/flutter_secure_storage) - A reactive library to store relational data in Dart and Flutter applications (SQL wrapper)
 * [Graphic](https://pub.dev/packages/graphic) - A grammar of data visualization and Flutter charting library
 * [FL Chart](https://pub.dev/packages/fl_chart) - A powerful Flutter chart library
+* [Flutter Neumorphic](https://pub.dev/packages/flutter_neumorphic) - Neumorphic UI kit for Flutter
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)

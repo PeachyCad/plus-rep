@@ -36,6 +36,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots 
 * [Microsoft Designer](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
+* [PageSpeed Insights](https://pagespeed.web.dev/) - Service, which reports on the user experience of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved
+* [PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.69.0) - Windows system utilities to maximize productivity
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
 * [JSON Crack](https://jsoncrack.com/) - Visualizer for your JSON data instantly into graphs
 * [Happy Hues](https://www.happyhues.co) - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects

@@ -56,6 +56,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Flutter Neumorphic](https://pub.dev/packages/flutter_neumorphic) - Neumorphic UI kit for Flutter
 * [Imageview360](https://pub.dev/packages/imageview360) - A Flutter package which provides 360 view of the images with rotation and gesture customisations
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps
+* [AppRunner](https://pub.dev/packages/app_runner) - AppRunner is a configurator for quick and controlled launch of your Flutter application
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Widgetbook](https://docs.widgetbook.io/) - Widgetbook is a flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)

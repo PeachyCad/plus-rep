@@ -11,12 +11,16 @@ This is my compilation of **interesting and useful** software 🍑
 * [Codeium](https://codeium.com/) - A Free AI-Powered Toolkit for Developers
 * [YouBit](https://habr.com/ru/company/first/blog/676282/?ysclid=l9zhiw2wnj655037600) - Storage your data in video format on YouTube
 * [textX](https://textx.github.io/textX) - textX is a meta-language for domain-specific language (DSL) specification in Python
+* [Telethon](https://github.com/LonamiWebs/Telethon) - Telethon is an asyncio Python 3 MTProto library to interact with Telegram's API as a user or through a bot account (bot API alternative)
+* [Aiogram](https://aiogram.dev/) - Aiogram is modern and fully asynchronous framework for Telegram Bot API written in Python with asyncio and aiohttp
 * [DivKit](https://github.com/divkit/divkit) - Open source Server-Driven UI (SDUI) framework
 * [VoT Yandex Browser](https://github.com/ilyhalight/voice-over-translation) - Yandex Browser VoT plugin for other browsers
 * [CryptPad](https://cryptpad.org/) - CryptPad is a collaborative office suite that is end-to-end encrypted and open-source (secure and confidential alternative to Google Docs)
 * [YandexStation CLI](https://github.com/beldmian/yastation) - Small CLI to control yandex speaker devices (yandex station)
 * [YandexStation Home Assistant](https://github.com/AlexxIT/YandexStation) - Controlling YandexStation from Home Assistant
 * [DevToys](https://devtoys.app/) - An offline Windows app that helps developers in daily tasks
+* [Three.JS](https://threejs.org/) - Three.js is a lightweight cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser
+* [Pixi.JS](https://pixijs.com/) - Pixi.JS is a fast 2D WebGL renderer
 * [Reveal.JS](https://revealjs.com/) - HTML presentation framework
 * [Draw.io](https://app.diagrams.net/) - A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Extension for VS Code which will help you create more human-friendly types of comments in your code
@@ -38,10 +42,12 @@ This is my compilation of **interesting and useful** software 🍑
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots 
 * [Microsoft Designer](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
+* [WireMock](https://wiremock.org/) - WireMock is a Free and Open Source tool for building mock APIs
 * [PageSpeed Insights](https://pagespeed.web.dev/) - Service, which reports on the user experience of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved
 * [PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.69.0) - Windows system utilities to maximize productivity
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
 * [JSON Crack](https://jsoncrack.com/) - Visualizer for your JSON data instantly into graphs
+* [IDA Free](https://hex-rays.com/ida-free/) - IDA Free is a free version of light but powerful tool wich can quickly analyze the binary code samples
 * [Happy Hues](https://www.happyhues.co) - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects
 * [Coolors](https://coolors.co/) - Service for generating or browsing color combinations for your designs 
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -64,6 +70,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
 * [Responsive Builder](https://pub.dev/packages/responsive_builder) - A set of widgets that can be used to define a readable responsive UI for widgets
 * [Flutter Platform Widgets](https://pub.dev/packages/flutter_platform_widgets) - A wrapper library that makes it easier to target the design language of your chosen platform using a single widget
+* [Live Activities](https://pub.dev/packages/live_activities) - A Flutter plugin to use iOS 16.1+ Live Activities & iPhone 14 Pro Dynamic Island features
 * [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
 * [Slang](https://pub.dev/packages/slang) - Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation
 * [File Picker](https://pub.dev/packages/file_picker) - A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extension filtering support

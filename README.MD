@@ -12,6 +12,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [YouBit](https://habr.com/ru/company/first/blog/676282/?ysclid=l9zhiw2wnj655037600) - Storage your data in video format on YouTube
 * [textX](https://textx.github.io/textX) - textX is a meta-language for domain-specific language (DSL) specification in Python
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - The tkinter package is the standard Python interface to the Tcl/Tk GUI toolkit
+* [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets
+* [DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui is a fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 * [Telethon](https://github.com/LonamiWebs/Telethon) - Telethon is an asyncio Python 3 MTProto library to interact with Telegram's API as a user or through a bot account (bot API alternative)
 * [Aiogram](https://aiogram.dev/) - Aiogram is modern and fully asynchronous framework for Telegram Bot API written in Python with asyncio and aiohttp
 * [DivKit](https://github.com/divkit/divkit) - Open source Server-Driven UI (SDUI) framework

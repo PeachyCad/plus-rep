@@ -14,6 +14,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - The tkinter package is the standard Python interface to the Tcl/Tk GUI toolkit
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui is a fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+* [PyCV](https://github.com/gorodion/pycv) - Pythonic OpenCV to speed up your computer vision research
 * [Telethon](https://github.com/LonamiWebs/Telethon) - Telethon is an asyncio Python 3 MTProto library to interact with Telegram's API as a user or through a bot account (bot API alternative)
 * [Aiogram](https://aiogram.dev/) - Aiogram is modern and fully asynchronous framework for Telegram Bot API written in Python with asyncio and aiohttp
 * [DivKit](https://github.com/divkit/divkit) - Open source Server-Driven UI (SDUI) framework
@@ -47,6 +48,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
 * [Microsoft Designer](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
+* [Quicktype.io](https://app.quicktype.io/) - Service to convert JSON into gorgeous, typesafe code in any language
 * [WireMock](https://wiremock.org/) - WireMock is a Free and Open Source tool for building mock APIs
 * [PageSpeed Insights](https://pagespeed.web.dev/) - Service, which reports on the user experience of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved
 * [PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.69.0) - Windows system utilities to maximize productivity

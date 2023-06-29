@@ -28,6 +28,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Reveal.JS](https://revealjs.com/) - HTML presentation framework
 * [HTMX](https://htmx.org/) - htmx is a library that allows you to access modern browser features directly from HTML, rather than using javascript
 * [Draw.io](https://app.diagrams.net/) - A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+* [Chart Studio Plotly](https://chart-studio.plotly.com/) - Make different charts and dashboards online
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Extension for VS Code which will help you create more human-friendly types of comments in your code
 * [Tunneling Software](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-based tunneling software and services
 * [AppFlowy](https://appflowy.io/) - Open-source Notion alternative

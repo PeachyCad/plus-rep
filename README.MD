@@ -39,6 +39,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [GetIt](https://pub.dev/packages/get_it) - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App
 * [Injectable](https://pub.dev/packages/injectable) - Injectable is a convenient code generator for get_it
 * [TTS-hritools](https://github.com/hritools/text-to-speech?ysclid=labgel9ema59608100) - A speech synthesis library
+* [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games natively on your Apple Silicon Mac
+* [Weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration
 * [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's
 * [The Book of Shaders](https://thebookofshaders.com/) - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
 * [Codelabs](https://codelabs.developers.google.com/) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience

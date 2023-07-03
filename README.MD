@@ -64,6 +64,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Culr](https://culrs.com/) - Colors that work together are curated and fashioned into quality palettes that you can incorporate
 * [Docsify](https://docsify.js.org/#/?id=docsify) - Docsify is a documentation site generator
 * [GitBook](https://www.gitbook.com/) - GitBook is a modern documentation platform where teams can document everything from products to internal knowledge bases and APIs
+* [Docusaurus](https://docusaurus.io/) - Docusaurus is a modern static website generator
 * [Jekyll](https://jekyllrb.com/) - Jekyll is a static site generator which takes text written in your favorite markup language and uses layouts to create a static website
 * [Hugo](https://gohugo.io/) - Hugo is another one open-source static site generators
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams

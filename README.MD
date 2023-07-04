@@ -61,7 +61,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [IDA Free](https://hex-rays.com/ida-free/) - IDA Free is a free version of light but powerful tool wich can quickly analyze the binary code samples
 * [Happy Hues](https://www.happyhues.co) - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects
 * [Coolors](https://coolors.co/) - Service for generating orS browsing color combinations for your designs
-* [Culr](https://culrs.com/) - Colors that work together are curated and fashioned into quality palettes that you can incorporate
+* [Culrs](https://culrs.com/) - Colors that work together are curated and fashioned into quality palettes that you can incorporate
 * [Docsify](https://docsify.js.org/#/?id=docsify) - Docsify is a documentation site generator
 * [GitBook](https://www.gitbook.com/) - GitBook is a modern documentation platform where teams can document everything from products to internal knowledge bases and APIs
 * [Docusaurus](https://docusaurus.io/) - Docusaurus is a modern static website generator

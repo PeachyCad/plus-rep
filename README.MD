@@ -49,6 +49,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [MailDrop](https://maildrop.cc/) - Maildrop is a free disposable email address to use anytime
 * [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
+* [Cam-Hackers](https://github.com/AngelSecurityTeam/Cam-Hackers) - Hack Cameras CCTV FREE
 * [Microsoft Designer](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
 * [Quicktype.io](https://app.quicktype.io/) - Service to convert JSON into gorgeous, typesafe code in any language

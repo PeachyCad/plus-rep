@@ -43,6 +43,10 @@ This is my compilation of **interesting and useful** software 🍑
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games natively on your Apple Silicon Mac
 * [Weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration
 * [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's
+* [LeetCode](https://leetcode.com/) - LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interview
+* [Codewars](https://www.codewars.com/) - Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice
+* [Coderun](https://coderun.yandex.ru/) - Leetcode and Codewars analog
+* [AcademyYandexHandbook](https://academy.yandex.ru/handbook) - The Handbook of Data Structures and Algorithms
 * [The Book of Shaders](https://thebookofshaders.com/) - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
 * [Codelabs](https://codelabs.developers.google.com/) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience
 * [This X Does Not Exist](https://thisxdoesnotexist.com/) - List of services with GAN to create realistic-looking fake versions of almost anything
@@ -50,6 +54,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
 * [Cam-Hackers](https://github.com/AngelSecurityTeam/Cam-Hackers) - Hack Cameras CCTV FREE
+* [Maigret](https://github.com/soxoj/maigret) - OSINT software for collecting a dossier on a person by username from thousands of sites
 * [Microsoft Designer](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
 * [Quicktype.io](https://app.quicktype.io/) - Service to convert JSON into gorgeous, typesafe code in any language
@@ -60,9 +65,16 @@ This is my compilation of **interesting and useful** software 🍑
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
 * [JSON Crack](https://jsoncrack.com/) - Visualizer for your JSON data instantly into graphs
 * [IDA Free](https://hex-rays.com/ida-free/) - IDA Free is a free version of light but powerful tool wich can quickly analyze the binary code samples
+* [JaxCore](https://jaxcore.app/index.html) - JaxCore is a beautiful, functional, customizable set of tools and widgets to spice up your desktop
+* [Spline](https://spline.design/) - Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser
 * [Happy Hues](https://www.happyhues.co) - Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects
-* [Coolors](https://coolors.co/) - Service for generating orS browsing color combinations for your designs
+* [Coolors](https://coolors.co/) - Service for generating or browsing color combinations for your designs
 * [Culrs](https://culrs.com/) - Colors that work together are curated and fashioned into quality palettes that you can incorporate
+* [Colorsinspo](https://colorsinspo.com/) - Thousands of beautiful color palettes you can use it directly by one click
+* [Dribbble](https://dribbble.com/search/app) - Service with many creative designs
+* [Mockuuups.Studio](https://mockuuups.studio/) - Service for photo-mockups generating
+* [Previewed](https://previewed.app/) - The simplest way to insert video & images into your device mockups
+* [Typeform](https://www.typeform.com/) - Service for building beautiful and interactive forms
 * [Docsify](https://docsify.js.org/#/?id=docsify) - Docsify is a documentation site generator
 * [GitBook](https://www.gitbook.com/) - GitBook is a modern documentation platform where teams can document everything from products to internal knowledge bases and APIs
 * [Docusaurus](https://docusaurus.io/) - Docusaurus is a modern static website generator

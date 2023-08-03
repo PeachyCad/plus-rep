@@ -1,6 +1,7 @@
 # Software List
 
 This is my compilation of **interesting and useful** software 🍑
+
 <!--🍑 Also available [in CSV](link) 🍑-->
 
 ## Common List
@@ -29,17 +30,17 @@ This is my compilation of **interesting and useful** software 🍑
 * [HTMX](https://htmx.org/) - htmx is a library that allows you to access modern browser features directly from HTML, rather than using javascript
 * [Draw.io](https://app.diagrams.net/) - A free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
 * [Chart Studio Plotly](https://chart-studio.plotly.com/) - Make different charts and dashboards online
+* [MarkText](https://github.com/marktext/marktext/tree/develop) - A simple and elegant markdown editor, available for Linux, macOS and Windows 
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Extension for VS Code which will help you create more human-friendly types of comments in your code
 * [Tunneling Software](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-based tunneling software and services
 * [AppFlowy](https://appflowy.io/) - Open-source Notion alternative
 * [GitBook](https://gitbook.com/) - Service for making technical documentation
 * [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
 * [Very Good CLI](https://cli.vgv.dev/) - A CLI to generate scalable templates of Flutter app, Flame game, Flutter package, Dart package, federated plugin, or Dart CLI with one command
-* [PANA](https://pub.dev/packages/pana) - Package analyzer which produce a report summarizing the health and quality of a Dart package 
+* [PANA](https://pub.dev/packages/pana) - Package analyzer which produce a report summarizing the health and quality of a Dart package
 * [Injector](https://pub.dev/packages/injector) - Injector is a simple to use and lightweight dependency injection library for dart
 * [GetIt](https://pub.dev/packages/get_it) - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App
 * [Injectable](https://pub.dev/packages/injectable) - Injectable is a convenient code generator for get_it
-* [TTS-hritools](https://github.com/hritools/text-to-speech?ysclid=labgel9ema59608100) - A speech synthesis library
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games natively on your Apple Silicon Mac
 * [Weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration
 * [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's
@@ -85,7 +86,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Figma](https://www.figma.com/) - Linear prototyping service
 * [Protopie](https://www.protopie.io/) - Dynamic prototyping service
 
-##  Mobile Dev List
+## Mobile Dev List
 
 * [Flutter Secure Storage](https://pub.flutter-io.cn/packages/flutter_secure_storage) - Flutter Secure Storage provides API to store data in secure storage. Keychain is used in iOS, KeyStore based solution is used in Android
 * [Drift](https://pub.flutter-io.cn/packages/flutter_secure_storage) - A reactive library to store relational data in Dart and Flutter applications (SQL wrapper)

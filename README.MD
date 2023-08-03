@@ -108,6 +108,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
 * [Slang](https://pub.dev/packages/slang) - Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation
 * [File Picker](https://pub.dev/packages/file_picker) - A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extension filtering support
+* [Appflowy Editor](https://github.com/AppFlowy-IO/appflowy-editor) - The AppFlowy Editor project for AppFlowy and beyond
 * [Embrace Flutter](https://pub.dev/packages/embrace) - A comprehensive observability and monitoring platform for iOS and Android apps built with Flutter
 * [Flutter Alice](https://pub.dev/packages/flutter_alice) - Flutter HTTP inspector tool which helps debugging http requests
 * [Accessibility Tools Flutter](https://pub.dev/packages/accessibility_tools) - Checkers and tools to ensure your app is accessible to all (force you to use Semantics-like things)

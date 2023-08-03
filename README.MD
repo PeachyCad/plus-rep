@@ -62,7 +62,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Quicktype.io](https://app.quicktype.io/) - Service to convert JSON into gorgeous, typesafe code in any language
 * [WireMock](https://wiremock.org/) - WireMock is a Free and Open Source tool for building mock APIs
 * [PageSpeed Insights](https://pagespeed.web.dev/) - Service, which reports on the user experience of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved
-* [Postman ](https://www.postman.com/)- Postman is an API platform for building and using APIs
+* [Postman](https://www.postman.com/) - Postman is an API platform for building and using APIs
 * [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 * [Userver](https://userver.tech/) - Userver is the modern open source asynchronous framework with a rich set of abstractions for fast and comfortable creation of C++ microservices, services and utilities
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies

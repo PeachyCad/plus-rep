@@ -38,6 +38,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
 * [Very Good CLI](https://cli.vgv.dev/) - A CLI to generate scalable templates of Flutter app, Flame game, Flutter package, Dart package, federated plugin, or Dart CLI with one command
 * [PANA](https://pub.dev/packages/pana) - Package analyzer which produce a report summarizing the health and quality of a Dart package
+* [JsonToDart](https://javiercbk.github.io/json_to_dart/) - Paste your JSON and get your Dart classes
 * [Injector](https://pub.dev/packages/injector) - Injector is a simple to use and lightweight dependency injection library for dart
 * [GetIt](https://pub.dev/packages/get_it) - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App
 * [Injectable](https://pub.dev/packages/injectable) - Injectable is a convenient code generator for get_it

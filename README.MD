@@ -38,6 +38,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
 * [Very Good CLI](https://cli.vgv.dev/) - A CLI to generate scalable templates of Flutter app, Flame game, Flutter package, Dart package, federated plugin, or Dart CLI with one command
 * [PANA](https://pub.dev/packages/pana) - Package analyzer which produce a report summarizing the health and quality of a Dart package
+* [Easy Debounce](https://pub.dev/packages/easy_debounce/example) - An extremely easy-to-use method call debouncer package for Dart/Flutter
 * [JsonToDart](https://javiercbk.github.io/json_to_dart/) - Paste your JSON and get your Dart classes
 * [Injector](https://pub.dev/packages/injector) - Injector is a simple to use and lightweight dependency injection library for dart
 * [GetIt](https://pub.dev/packages/get_it) - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App
@@ -100,6 +101,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps
 * [AppRunner](https://pub.dev/packages/app_runner) - AppRunner is a configurator for quick and controlled launch of your Flutter application
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
+* [Flutter Gherkin](https://pub.dev/packages/flutter_gherkin) - A Gherkin / Cucumber parser and test runner for Dart and Flutter 
 * [Widgetbook](https://docs.widgetbook.io/) - Widgetbook is a flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
 * [Responsive Builder](https://pub.dev/packages/responsive_builder) - A set of widgets that can be used to define a readable responsive UI for widgets

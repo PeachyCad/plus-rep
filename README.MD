@@ -62,6 +62,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
 * [Quicktype.io](https://app.quicktype.io/) - Service to convert JSON into gorgeous, typesafe code in any language
 * [WireMock](https://wiremock.org/) - WireMock is a Free and Open Source tool for building mock APIs
+* [InstaAPI](https://instaapi.ddns.net) - Build and validate APIs Instantly
 * [PageSpeed Insights](https://pagespeed.web.dev/) - Service, which reports on the user experience of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved
 * [Postman](https://www.postman.com/) - Postman is an API platform for building and using APIs
 * [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity

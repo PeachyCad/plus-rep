@@ -107,6 +107,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Widgetbook](https://docs.widgetbook.io/) - Widgetbook is a flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
 * [Responsive Builder](https://pub.dev/packages/responsive_builder) - A set of widgets that can be used to define a readable responsive UI for widgets
+* [Flutter Screenutil](https://pub.dev/packages/flutter_screenutil) - A Flutter plugin for adapting screen and font size
 * [Flutter Platform Widgets](https://pub.dev/packages/flutter_platform_widgets) - A wrapper library that makes it easier to target the design language of your chosen platform using a single widget
 * [Live Activities](https://pub.dev/packages/live_activities) - A Flutter plugin to use iOS 16.1+ Live Activities & iPhone 14 Pro Dynamic Island features
 * [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
@@ -116,3 +117,4 @@ This is my compilation of **interesting and useful** software 🍑
 * [Embrace Flutter](https://pub.dev/packages/embrace) - A comprehensive observability and monitoring platform for iOS and Android apps built with Flutter
 * [Flutter Alice](https://pub.dev/packages/flutter_alice) - Flutter HTTP inspector tool which helps debugging http requests
 * [Accessibility Tools Flutter](https://pub.dev/packages/accessibility_tools) - Checkers and tools to ensure your app is accessible to all (force you to use Semantics-like things)
+* [IconKitchen](https://icon.kitchen/) - Quickly generate app icons for Android, iOS, the Web and more

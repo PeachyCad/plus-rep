@@ -59,6 +59,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
 * [Cam-Hackers](https://github.com/AngelSecurityTeam/Cam-Hackers) - Hack Cameras CCTV FREE
 * [Maigret](https://github.com/soxoj/maigret) - OSINT software for collecting a dossier on a person by username from thousands of sites
+* [Alfred](https://github.com/alfredredbird/alfred?ysclid=llxap2o9ca629724068) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs
 * [Microsoft Designer](https://designer.microsoft.com/) - A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse#using-the-chrome-extension) - Automated auditing, performance metrics, and best practices for the web (PWA auditing)
 * [Quicktype.io](https://app.quicktype.io/) - Service to convert JSON into gorgeous, typesafe code in any language

@@ -105,6 +105,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [AppRunner](https://pub.dev/packages/app_runner) - AppRunner is a configurator for quick and controlled launch of your Flutter application
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Flutter Gherkin](https://pub.dev/packages/flutter_gherkin) - A Gherkin / Cucumber parser and test runner for Dart and Flutter 
+* [Once](https://pub.dev/packages/once) - A flutter plugin for running/showing a piece of code/widget once (Once - Hourly - Daily - Weekly - Monthly - Every new version - Any custom duration)
 * [Widgetbook](https://docs.widgetbook.io/) - Widgetbook is a flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
 * [Responsive Builder](https://pub.dev/packages/responsive_builder) - A set of widgets that can be used to define a readable responsive UI for widgets

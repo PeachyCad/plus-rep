@@ -114,6 +114,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Flutter Screenutil](https://pub.dev/packages/flutter_screenutil) - A Flutter plugin for adapting screen and font size
 * [Flutter Platform Widgets](https://pub.dev/packages/flutter_platform_widgets) - A wrapper library that makes it easier to target the design language of your chosen platform using a single widget
 * [Live Activities](https://pub.dev/packages/live_activities) - A Flutter plugin to use iOS 16.1+ Live Activities & iPhone 14 Pro Dynamic Island features
+* [Sliding Up Panel](https://pub.dev/packages/sliding_up_panel) - A draggable Flutter widget that makes implementing a SlidingUpPanel much easier
 * [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
 * [Slang](https://pub.dev/packages/slang) - Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation
 * [File Picker](https://pub.dev/packages/file_picker) - A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extension filtering support

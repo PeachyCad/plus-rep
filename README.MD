@@ -59,6 +59,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [Phantom Mail](https://www.phantom-mail.io) - Another temporary email address service
 * [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
+* [PdfPlumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables
+* [PyWebCopy](https://github.com/rajatomar788/pywebcopy/) - Locally saves webpages to your hard disk with images, css, js & links as is
 * [Cam-Hackers](https://github.com/AngelSecurityTeam/Cam-Hackers) - Hack Cameras CCTV FREE
 * [Maigret](https://github.com/soxoj/maigret) - OSINT software for collecting a dossier on a person by username from thousands of sites
 * [Alfred](https://github.com/alfredredbird/alfred?ysclid=llxap2o9ca629724068) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs

@@ -102,6 +102,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Drift](https://pub.flutter-io.cn/packages/flutter_secure_storage) - A reactive library to store relational data in Dart and Flutter applications (SQL wrapper)
 * [Graphic](https://pub.dev/packages/graphic) - A grammar of data visualization and Flutter charting library
 * [FL Chart](https://pub.dev/packages/fl_chart) - A powerful Flutter chart library
+* [Flutter Captcha](https://github.com/feduke-nukem/flutter_captcha) - Provide any widget, and it will be automatically divided into parts that can be rotated and positioned
 * [Flutter Neumorphic](https://pub.dev/packages/flutter_neumorphic) - Neumorphic UI kit for Flutter
 * [Imageview360](https://pub.dev/packages/imageview360) - A Flutter package which provides 360 view of the images with rotation and gesture customisations
 * [Animated Glitch](https://pub.dev/packages/animated_glitch) - Animated Glitch is a Flutter package that allows you to easily create glitch effects and control them

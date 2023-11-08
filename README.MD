@@ -106,6 +106,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Flutter Neumorphic](https://pub.dev/packages/flutter_neumorphic) - Neumorphic UI kit for Flutter
 * [Imageview360](https://pub.dev/packages/imageview360) - A Flutter package which provides 360 view of the images with rotation and gesture customisations
 * [Animated Glitch](https://pub.dev/packages/animated_glitch) - Animated Glitch is a Flutter package that allows you to easily create glitch effects and control them
+* [Flutter InAppReview](https://pub.dev/packages/in_app_review) - Flutter plugin for showing the In-App Review/System Rating pop 
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps
 * [AppRunner](https://pub.dev/packages/app_runner) - AppRunner is a configurator for quick and controlled launch of your Flutter application
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions

@@ -116,8 +116,10 @@ This is my compilation of **interesting and useful** software 🍑
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
 * [Responsive Builder](https://pub.dev/packages/responsive_builder) - A set of widgets that can be used to define a readable responsive UI for widgets
 * [Flutter Screenutil](https://pub.dev/packages/flutter_screenutil) - A Flutter plugin for adapting screen and font size
-* [Flutter Platform Widgets](https://pub.dev/packages/flutter_platform_widgets) - A wrapper library that makes it easier to target the design language of your chosen platform using a single widget
+* [Fluster](https://pub.dev/packages/fluster) - A geospatial point clustering library for Dart to help provide spacing between markers in mapping solutions
+* [Shake](https://pub.dev/packages/shake) - A flutter package to detect phone shakes
 * [Live Activities](https://pub.dev/packages/live_activities) - A Flutter plugin to use iOS 16.1+ Live Activities & iPhone 14 Pro Dynamic Island features
+* [Home Widget](https://pub.dev/packages/home_widget) - A plugin to provide a common interface for creating HomeScreen Widgets for Android and iOS
 * [Sliding Up Panel](https://pub.dev/packages/sliding_up_panel) - A draggable Flutter widget that makes implementing a SlidingUpPanel much easier
 * [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
 * [Slang](https://pub.dev/packages/slang) - Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation

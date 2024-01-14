@@ -112,6 +112,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Flutter Gherkin](https://pub.dev/packages/flutter_gherkin) - A Gherkin / Cucumber parser and test runner for Dart and Flutter
 * [Once](https://pub.dev/packages/once) - A flutter plugin for running/showing a piece of code/widget once (Once - Hourly - Daily - Weekly - Monthly - Every new version - Any custom duration)
+* [RandomX](https://pub.dev/packages/random_x) - A Dart Library for all of your random needs you'll ever require in your projects
+* [DartX](https://pub.dev/packages/dartx) - Collection of useful static extension methods
 * [Flutter Duit](https://pub.dev/packages/flutter_duit) - A server side UI framework for Flutter, which is used for creating widgets and server-side state management
 * [Widgetbook](https://docs.widgetbook.io/) - Widgetbook is a flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)

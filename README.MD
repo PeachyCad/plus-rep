@@ -111,6 +111,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [AppRunner](https://pub.dev/packages/app_runner) - AppRunner is a configurator for quick and controlled launch of your Flutter application
 * [Flutter Version Management](https://github.com/fluttertools/fvm) - A simple CLI to manage Flutter SDK versions
 * [Flutter Gherkin](https://pub.dev/packages/flutter_gherkin) - A Gherkin / Cucumber parser and test runner for Dart and Flutter
+* [Flutter Gemini](https://pub.dev/packages/flutter_gemini) - Flutter Google Gemini SDK
 * [Once](https://pub.dev/packages/once) - A flutter plugin for running/showing a piece of code/widget once (Once - Hourly - Daily - Weekly - Monthly - Every new version - Any custom duration)
 * [RandomX](https://pub.dev/packages/random_x) - A Dart Library for all of your random needs you'll ever require in your projects
 * [DartX](https://pub.dev/packages/dartx) - Collection of useful static extension methods

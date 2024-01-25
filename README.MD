@@ -128,7 +128,9 @@ This is my compilation of **interesting and useful** software 🍑
 * [Sliding Up Panel](https://pub.dev/packages/sliding_up_panel) - A draggable Flutter widget that makes implementing a SlidingUpPanel much easier
 * [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
 * [Slang](https://pub.dev/packages/slang) - Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation
-* [File Picker](https://pub.dev/packages/file_picker) - A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extension filtering support
+* [Widgetbook](https://pub.dev/packages/widgetbook) - A flutter storybook that helps professionals and teams to catalogue their widgets
+* [Dashbook](https://pub.dev/packages/dashbook) - A showcase/sandbox library to help you build isolated widgets in Flutter
+* [Storybook Flutter](https://pub.dev/packages/storybook_flutter) - A storybook for Flutter widgets. Live preview of isolated widgets for faster development and showcase
 * [Appflowy Editor](https://github.com/AppFlowy-IO/appflowy-editor) - The AppFlowy Editor project for AppFlowy and beyond
 * [Embrace Flutter](https://pub.dev/packages/embrace) - A comprehensive observability and monitoring platform for iOS and Android apps built with Flutter
 * [Flutter Alice](https://pub.dev/packages/flutter_alice) - Flutter HTTP inspector tool which helps debugging http requests

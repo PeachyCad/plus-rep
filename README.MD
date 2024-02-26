@@ -9,7 +9,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [Gooey](https://github.com/chriskiehl/Gooey) – Translating Python CLI into GUI
 * [YandexMusicAPI](https://github.com/MarshalX/yandex-music-api) – Unofficial Python library for working with the Yandex.Music service API
 * [Locofy](https://www.locofy.ai/) - Turn your designs into production-ready frontend code for mobile apps and web
-* [Codeium](https://codeium.com/) - A Free AI-Powered Toolkit for Developers
+* [Codeium](https://codeium.com/) - A free AI-Powered toolkit for developers
+* [Pieces](https://pieces.app) - Another free AI-Powered software for developers
 * [YouBit](https://habr.com/ru/company/first/blog/676282/?ysclid=l9zhiw2wnj655037600) - Storage your data in video format on YouTube
 * [textX](https://textx.github.io/textX) - textX is a meta-language for domain-specific language (DSL) specification in Python
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - The tkinter package is the standard Python interface to the Tcl/Tk GUI toolkit

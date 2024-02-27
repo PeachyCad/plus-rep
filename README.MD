@@ -19,8 +19,9 @@ This is my compilation of **interesting and useful** software 🍑
 * [Atexit](https://docs.python.org/3/library/atexit.html) - The atexit module defines functions to register and unregister cleanup functions (functions thus registered are automatically executed upon normal interpreter termination)
 * [TQDM](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 * [PyCV](https://github.com/gorodion/pycv) - Pythonic OpenCV to speed up your computer vision research
-* [Telethon](https://github.com/LonamiWebs/Telethon) - Telethon is an asyncio Python 3 MTProto library to interact with Telegram's API as a user or through a bot account (bot API alternative)
 * [Aiogram](https://aiogram.dev/) - Aiogram is modern and fully asynchronous framework for Telegram Bot API written in Python with asyncio and aiohttp
+* [Telethon](https://github.com/LonamiWebs/Telethon) - Telethon is an asyncio Python 3 MTProto library to interact with Telegram's API as a user or through a bot account (bot API alternative)
+* [Pyrogram](https://docs.pyrogram.org) - Pyrogram is an elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 * [DivKit](https://github.com/divkit/divkit) - Open source Server-Driven UI (SDUI) framework
 * [VoT Yandex Browser](https://github.com/ilyhalight/voice-over-translation) - Yandex Browser VoT plugin for other browsers
 * [CryptPad](https://cryptpad.org/) - CryptPad is a collaborative office suite that is end-to-end encrypted and open-source (secure and confidential alternative to Google Docs)

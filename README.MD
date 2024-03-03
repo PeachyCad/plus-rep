@@ -39,6 +39,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Tunneling Software](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-based tunneling software and services
 * [AppFlowy](https://appflowy.io/) - Open-source Notion alternative
 * [GitBook](https://gitbook.com/) - Service for making technical documentation
+* [Jaspr](https://docs.page/schultek/jaspr) - Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering
 * [DCLI](https://pub.dev/packages/dcli) - Dart console SDK - write console (cli) apps/scripts using dart
 * [Very Good CLI](https://cli.vgv.dev/) - A CLI to generate scalable templates of Flutter app, Flame game, Flutter package, Dart package, federated plugin, or Dart CLI with one command
 * [PANA](https://pub.dev/packages/pana) - Package analyzer which produce a report summarizing the health and quality of a Dart package
@@ -50,6 +51,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games natively on your Apple Silicon Mac
 * [Weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration
 * [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's
+* [Perspective](https://perspectiveapi.com) - Perspective API can help mitigate toxicity and ensure healthy dialogue online
 * [LeetCode](https://leetcode.com/) - LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interview
 * [Codewars](https://www.codewars.com/) - Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice
 * [Coderun](https://coderun.yandex.ru/) - Leetcode and Codewars analog

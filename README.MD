@@ -52,6 +52,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration
 * [Scientific Paper](https://habr.com/ru/post/697922/) - List of scientific paper's
 * [Perspective](https://perspectiveapi.com) - Perspective API can help mitigate toxicity and ensure healthy dialogue online
+* [Nager.Date](https://date.nager.at) - Nager.Date is an open source project which provides a simple way to query the holidays of over 100 countries, also it is possible to query long weekends
 * [LeetCode](https://leetcode.com/) - LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interview
 * [Codewars](https://www.codewars.com/) - Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice
 * [Coderun](https://coderun.yandex.ru/) - Leetcode and Codewars analog

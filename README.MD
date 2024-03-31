@@ -132,6 +132,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Live Activities](https://pub.dev/packages/live_activities) - A Flutter plugin to use iOS 16.1+ Live Activities & iPhone 14 Pro Dynamic Island features
 * [Home Widget](https://pub.dev/packages/home_widget) - A plugin to provide a common interface for creating HomeScreen Widgets for Android and iOS
 * [Flutter Callkit Voximplant](https://pub.dev/packages/flutter_callkit_voximplant) - Flutter SDK for CallKit integration to Flutter applications on iOS
+* [Flutter Staggered Animations](https://pub.dev/packages/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children
 * [Sliding Up Panel](https://pub.dev/packages/sliding_up_panel) - A draggable Flutter widget that makes implementing a SlidingUpPanel much easier
 * [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
 * [Slang](https://pub.dev/packages/slang) - Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation

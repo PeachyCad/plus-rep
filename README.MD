@@ -114,6 +114,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [NES UI](https://pub.dev/packages/nes_ui) - UI library inspired by old retro video game console
 * [Imageview360](https://pub.dev/packages/imageview360) - A Flutter package which provides 360 view of the images with rotation and gesture customisations
 * [Animated Glitch](https://pub.dev/packages/animated_glitch) - Animated Glitch is a Flutter package that allows you to easily create glitch effects and control them
+* [Random Text Reveal](https://pub.dev/packages/random_text_reveal) - A text animation package with random text reveal effect where the text reveals itself letter by letter
 * [Flutter InAppReview](https://pub.dev/packages/in_app_review) - Flutter plugin for showing the In-App Review/System Rating pop 
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps
 * [AppRunner](https://pub.dev/packages/app_runner) - AppRunner is a configurator for quick and controlled launch of your Flutter application
@@ -135,6 +136,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Flutter Callkit Voximplant](https://pub.dev/packages/flutter_callkit_voximplant) - Flutter SDK for CallKit integration to Flutter applications on iOS
 * [Flutter Staggered Animations](https://pub.dev/packages/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children
 * [Sliding Up Panel](https://pub.dev/packages/sliding_up_panel) - A draggable Flutter widget that makes implementing a SlidingUpPanel much easier
+* [Flutter Form Builder](https://pub.dev/packages/flutter_form_builder) - This package helps in creation of forms in Flutter by removing the boilerplate code, reusing validation, react to changes, and collect final user input
 * [Easy Localization](https://pub.dev/packages/easy_localization) - Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process
 * [Slang](https://pub.dev/packages/slang) - Localization / Internationalization (i18n) solution. Use JSON, YAML or CSV files to create typesafe translations via source generation
 * [Widgetbook](https://pub.dev/packages/widgetbook) - A flutter storybook that helps professionals and teams to catalogue their widgets

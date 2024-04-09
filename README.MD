@@ -125,6 +125,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [RandomX](https://pub.dev/packages/random_x) - A Dart Library for all of your random needs you'll ever require in your projects
 * [DartX](https://pub.dev/packages/dartx) - Collection of useful static extension methods
 * [Flutter Duit](https://pub.dev/packages/flutter_duit) - A server side UI framework for Flutter, which is used for creating widgets and server-side state management
+* [Shorebird](https://github.com/shorebirdtech/shorebird) - Code push for Flutter and other tools for Flutter businesses
 * [Widgetbook](https://docs.widgetbook.io/) - Widgetbook is a flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients
 * [Sizer](https://pub.dev/packages/sizer) - A flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
 * [Responsive Builder](https://pub.dev/packages/responsive_builder) - A set of widgets that can be used to define a readable responsive UI for widgets

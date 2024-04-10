@@ -114,6 +114,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [NES UI](https://pub.dev/packages/nes_ui) - UI library inspired by old retro video game console
 * [Imageview360](https://pub.dev/packages/imageview360) - A Flutter package which provides 360 view of the images with rotation and gesture customisations
 * [Animated Glitch](https://pub.dev/packages/animated_glitch) - Animated Glitch is a Flutter package that allows you to easily create glitch effects and control them
+* [Scratcher](https://pub.dev/packages/scratcher) - Scratch card widget which temporarily hides content from the user
 * [Random Text Reveal](https://pub.dev/packages/random_text_reveal) - A text animation package with random text reveal effect where the text reveals itself letter by letter
 * [Flutter InAppReview](https://pub.dev/packages/in_app_review) - Flutter plugin for showing the In-App Review/System Rating pop 
 * [Codemagic](https://codemagic.io) - CI/CD for mobile apps

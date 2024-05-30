@@ -67,6 +67,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
 * [PdfPlumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables
 * [PyWebCopy](https://github.com/rajatomar788/pywebcopy/) - Locally saves webpages to your hard disk with images, css, js & links as is
+* [Repo2txt](https://github.com/pde-rent/repo2txt) - Dump an entire github repository inside a descriptive file to be used as llm input or training data
 * [Botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to build Awesome Scrapers
 * [Cam-Hackers](https://github.com/AngelSecurityTeam/Cam-Hackers) - Hack Cameras CCTV FREE
 * [Maigret](https://github.com/soxoj/maigret) - OSINT software for collecting a dossier on a person by username from thousands of sites

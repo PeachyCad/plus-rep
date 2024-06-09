@@ -125,6 +125,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Flutter Gherkin](https://pub.dev/packages/flutter_gherkin) - A Gherkin / Cucumber parser and test runner for Dart and Flutter
 * [Flutter Gemini](https://pub.dev/packages/flutter_gemini) - Flutter Google Gemini SDK
 * [Once](https://pub.dev/packages/once) - A flutter plugin for running/showing a piece of code/widget once (Once - Hourly - Daily - Weekly - Monthly - Every new version - Any custom duration)
+* [Rnd](https://pub.dev/packages/rnd) - Extension methods & helpers for Random, and a globally accessible instance
 * [RandomX](https://pub.dev/packages/random_x) - A Dart Library for all of your random needs you'll ever require in your projects
 * [DartX](https://pub.dev/packages/dartx) - Collection of useful static extension methods
 * [Flutter Duit](https://pub.dev/packages/flutter_duit) - A server side UI framework for Flutter, which is used for creating widgets and server-side state management

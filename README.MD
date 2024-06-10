@@ -84,6 +84,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Userver](https://userver.tech/) - Userver is the modern open source asynchronous framework with a rich set of abstractions for fast and comfortable creation of C++ microservices, services and utilities
 * [ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface for C++ with minimal dependencies
 * [JSON Crack](https://jsoncrack.com/) - Visualizer for your JSON data instantly into graphs
+* [DrawDB](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator
 * [IDA Free](https://hex-rays.com/ida-free/) - IDA Free is a free version of light but powerful tool wich can quickly analyze the binary code samples
 * [JaxCore](https://jaxcore.app/index.html) - JaxCore is a beautiful, functional, customizable set of tools and widgets to spice up your desktop
 * [Spline](https://spline.design/) - Spline is a free 3D design software with real-time collaboration to create web interactive experiences in the browser

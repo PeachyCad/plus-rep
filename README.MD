@@ -136,6 +136,7 @@ This is my compilation of **interesting and useful** software 🍑
 * [Shorebird](https://github.com/shorebirdtech/shorebird) - Code push for Flutter and other tools for Flutter businesses
 * [Widgetbook](https://docs.widgetbook.io/) - Widgetbook is a flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients
 * [Nested](https://pub.dev/packages/nested) - A Flutter Widget which helps nest multiple widgets without needing to manually nest them
+* [Flutter Adaptive UI](https://pub.dev/packages/flutter_adaptive_ui) - A library that helps implement adaptive UI (based on OS, Screen size, ...)
 * [Sizer](https://pub.dev/packages/sizer) - A Flutter plugin for easily make Flutter apps responsive (or use MediaQuery)
 * [Responsive Sizer](https://pub.dev/packages/responsive_sizer) - Responsive Sizer helps implement a reponsive layout by providing helper widgets and extensions
 * [Responsive Builder](https://pub.dev/packages/responsive_builder) - A set of widgets that can be used to define a readable responsive UI for widgets

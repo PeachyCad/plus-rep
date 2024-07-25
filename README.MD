@@ -100,7 +100,8 @@ This is my compilation of **interesting and useful** software 🍑
 * [GitBook](https://www.gitbook.com/) - GitBook is a modern documentation platform where teams can document everything from products to internal knowledge bases and APIs
 * [Docusaurus](https://docusaurus.io/) - Docusaurus is a modern static website generator
 * [Jekyll](https://jekyllrb.com/) - Jekyll is a static site generator which takes text written in your favorite markup language and uses layouts to create a static website
-* [Hugo](https://gohugo.io/) - Hugo is another one open-source static site generators
+* [Hugo](https://gohugo.io/) - Hugo is another one open-source static site generator
+* [Static Shock](https://staticshock.io/) - Static Shock is a static site generator for Dart
 * [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 * [Webflow](https://webflow.com/?utm_source=flowmingo&utm_medium=referral&utm_campaign=flowmingo-show) - Online visual editor platform, which allows users to design, build, and launch websites
 * [Figma](https://www.figma.com/) - Linear prototyping service

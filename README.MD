@@ -61,7 +61,6 @@ This is my compilation of **interesting and useful** software 🍑
 * [This X Does Not Exist](https://thisxdoesnotexist.com/) - List of services with GAN to create realistic-looking fake versions of almost anything
 * [Api2App](https://github.com/andchir/api2app-frontend) - Service for quickly creating a graphical interface for an API
 * [MailDrop](https://maildrop.cc/) - Maildrop is a free disposable email address to use anytime
-* [Phantom Mail](https://www.phantom-mail.io) - Another temporary email address service
 * [Deta](https://www.deta.sh/) - Heroku analog Cloud-Platform-as-a-Service (CPaaS)
 * [Goorm.io](https://ide.goorm.io/) - Another Heroku alternative
 * [PdfPlumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables
